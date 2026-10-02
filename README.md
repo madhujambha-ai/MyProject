@@ -1,4 +1,4 @@
 # MyProject
-Author - Madhusudhan Jambha
+Author - Madhusudhan. Jambha.
 </br>
 Experimenting with Coding skills in Github and Git
